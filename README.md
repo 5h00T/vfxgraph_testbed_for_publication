@@ -1,6 +1,7 @@
 # VFXGraphAndShaderPractice
 
 ## Requirements
+- 2020.1.2f1
 - VFXGraph 8.2.0
 - ShaderGraph 8.2.0
 - HDRP 8.2.0
