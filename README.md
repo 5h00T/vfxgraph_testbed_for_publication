@@ -1,4 +1,4 @@
-# VFXGraphAndShaderPractice
+# vfxgraph_testbed_for_publication
 
 ## Requirements
 - UnityEditor 2020.1.2f1
